@@ -16,3 +16,10 @@ Your system will follow that user-specified path to traverse a collection of ima
 # Result:
 
 ![resultanimation](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/Heliotrope/result.gif)
+
+
+## Self-captured dataset 
+I also provided a dataset under an ideal light condition, good for debugging.
+
+![resultanimation](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/4.jpg)
+
