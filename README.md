@@ -20,6 +20,6 @@ Your system will follow that user-specified path to traverse a collection of ima
 
 ## Self-captured dataset 
 I also provided a dataset under an ideal light condition, good for debugging.
-
+It is an iron made lens cap on a non-reflectable matte in different locations.
 ![resultanimation](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/4.jpg)
 
