@@ -1,6 +1,6 @@
 #  Controllable Heliotrope Video
  
-The goal of this practical is to combine Direct Manipulation with the ideas in VideoTextures. You will build a system that allows the user to (seemingly) specify the look-at directions of a "real" human face.
+The goal of this practical is to combine Direct Manipulation with the ideas in VideoTextures. This is a system that allows the user to (seemingly) specify the look-at directions of a "real" human face.
 
 ![FaceImg](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/Heliotrope/gabriel.jpg)
 
