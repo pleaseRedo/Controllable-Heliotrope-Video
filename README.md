@@ -1,5 +1,5 @@
 #  Controllable Heliotrope Video
- 
+
 The goal of this practical is to combine Direct Manipulation with the ideas in VideoTextures. This is a system that allows the user to (seemingly) specify the look-at directions of a "real" human face.
 
 ![FaceImg](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/Heliotrope/gabriel.jpg)
@@ -15,7 +15,7 @@ Your system will follow that user-specified path to traverse a collection of ima
 
 # Result:
 
-![resultanimation](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/Heliotrope/result.gif)
+![resultanimation](https://github.com/pleaseRedo/Controllable-Heliotrope-Video/blob/master/Heliotrope/result2.gif)
 
 
 ## Self-captured dataset 
